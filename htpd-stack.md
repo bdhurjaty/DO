@@ -1,4 +1,4 @@
-## 15/09 - Setup HTTPD + Tomcat + MariaDB
+## Setup HTTPD + Tomcat + MariaDB
 
 ### Install MariaDB and Configure.
 
